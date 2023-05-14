@@ -1,2 +1,1 @@
-# Application of a Global Navigation Satellite System from ephemeris data
-
+# Application of a Global Navigation Satellite System based on Least square method
